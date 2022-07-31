@@ -1,0 +1,22 @@
+i{
+    pointer-events: none;
+}
+
+
+#alovera{
+    width: 100px;
+    border-radius: 4px;
+}
+
+.my-table{
+    vertical-align: middle;
+}
+
+.photo{
+    width: 150px;
+    object-fit: cover;
+}
+.photos{
+    width: 100%;
+    object-fit: cover;
+}
